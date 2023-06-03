@@ -1,3 +1,5 @@
+![preview img](/preview.png)
+
 ### 
 <h1>Portfolio con Blog creado para una primera vesrión</h1>
 
@@ -7,7 +9,3 @@
   <li>JavaScript</li>
   <li>Responsive</li>
 </ul>
-
-![preview img](/preview.png)
-
-
